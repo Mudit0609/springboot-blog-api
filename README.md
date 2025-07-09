@@ -38,7 +38,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/blog-wesite-apis.git
+git clone https://github.com/Mudit0609/springboot-blog-api.git
 cd blog-wesite-apis
 ```
 
@@ -105,4 +105,3 @@ Mudit Singhal
 Recent BTech Graduate from SKIT, Jaipur
 
 ---
-```
